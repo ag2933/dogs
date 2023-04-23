@@ -11,7 +11,7 @@ _My favorite type of dog is a golden retriever, there is a photo of a golden ret
 This is a site that has over [500 photos of golden retrievers](https://unsplash.com/s/photos/golden-retriever)
 
 
-################## Below contains a small code that if you make a tester for it, it will print out a grade that you get on a test or quiz.
+###### Below contains a small code that if you make a tester for it, it will print out a grade that you get on a test or quiz.
 
 public class Grade {
 
