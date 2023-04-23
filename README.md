@@ -1,5 +1,6 @@
 # Golden Retriever
 ## This is a repository that shows my love towards Golden Retrievers. 
+
 _My favorite type of dog is a golden retriever, there is a photo of a golden retriever below_
 
 
